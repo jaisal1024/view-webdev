@@ -6,7 +6,7 @@ View is the Student Photography Group at NYU Abu Dhabi. This Website was created
 
 [![Website Preview](img/viewPreview.png?raw=true)](http://view.nyuad.im)
 
-**[View Live Preview](http://view.nyuad.im)**
+**[View Live Website](http://view.nyuad.im)**
 
 
 
